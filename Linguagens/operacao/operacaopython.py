@@ -1,0 +1,23 @@
+a = 5
+b = 3
+
+soma = a+b
+print(a," + ",b," = ",soma)
+subt = a-b
+print(a," - ",b," = ",subt)
+mult = a*b
+print(a," * ",b," = ",mult)
+div =a/b
+print(a," / ",b," = ",div)
+quoc = a//b
+print(a," // ",b," = ",quoc)
+resto = a%b
+print(a," % ",b, " = ",resto)
+inc = a
+print("Antes do incremento o valor da variavel inc = ",inc)
+inc += 1
+print("Apos o incremento o valor da variavel inc = ",inc)
+dec = b
+print("Antes do decremento o valor da variavel dec = ",dec)
+dec -= 1
+print("Apos o decremento o valor da variavel dec =",dec)
